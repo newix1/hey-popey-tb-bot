@@ -6,7 +6,7 @@ import sqlite3
 
 from telebot import types, TeleBot
 
-bot: TeleBot = telebot.TeleBot('6040094207:AAFXYrUuBrD3mlUZUnreBW0N3zyl1JPJkvE')
+bot: TeleBot = telebot.TeleBot('TOKEN')
 
 cups_max = {'default': 6, 'vip': 5, 'special': 3}
 
